@@ -7,8 +7,16 @@ Link do intensivo: https://www.alura.com.br/quarentenadados
 
 * Manipulação e análise de dados de filmes e suas avaliações 
 
+##  Aula 2: Médias, medianas e visualização de dados.
+
+* Técnicas de centralidade
+* Boas práticas de visualização de dados
+* Função
+* Boxplot
+
 ### Bibliotecas utilizadas
-* [pandas](https://pandas.pydata.org/) (análise de manipulação de dados)
+* [pandas](https://pandas.pydata.org/)
+* [seaborn](https://seaborn.pydata.org/)
 
 ### Bases de dados
 * Base com títulos e generos do [MovieLens](https://raw.githubusercontent.com/alura-cursos/introducao-a-data-science/master/aula0/ml-latest-small/movies.csv)
